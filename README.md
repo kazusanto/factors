@@ -3,8 +3,6 @@
 ## Summary
 factors is a command line tool that calculates the prime factors of a number. It is simple and easy to use.
 
-This project was created as a personal first exploration of using AI Copilot for development.
-
 ## Prerequisites
 - Python 3.7 or later
 - pipx installed (see: https://pipxproject.github.io/pipx/installation/)
@@ -12,7 +10,7 @@ This project was created as a personal first exploration of using AI Copilot for
 ## Installation
 
 ```bash
-pipx install factors
+pipx install .
 ```
 
 ## How to use

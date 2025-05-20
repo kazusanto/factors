@@ -22,3 +22,12 @@ factors <number>
 > factors 100
 Prime factors: 2^2 * 5^2
 ```
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+- [Kazuaki Oshiba](https://github.com/kazusanto)
